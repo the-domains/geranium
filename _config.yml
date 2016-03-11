@@ -2,6 +2,7 @@ name: Geranium
 favicon: null
 layout_spectrum: 0.22057417989708483
 typography_spectrum: 0.07313279411755502
+title: MyLifeBBS
 cta:
   domain: null
   bucket: null
